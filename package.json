@@ -1,0 +1,14 @@
+{
+  "name": "Cracked/Online-AFKBot",
+  "version": "1.0.0",
+  "description": "A Simple Node.js Minecraft AFKBot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Fehler: keine tests vorhanden\" && exit 1"
+  },
+  "author": "DZT-Programming",
+  "license": "Apache-2.0 License",
+  "dependencies": {
+    "mineflayer": "^3.11.2"
+  }
+}
