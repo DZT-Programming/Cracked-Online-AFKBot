@@ -1,2 +1,4 @@
-# Cracked-AFKBot
-A Simple Node.js Minecraft AFKBot.
+# Installation
+Zum Installieren bitte den Installation Script downloaden:
+
+Linux: 
